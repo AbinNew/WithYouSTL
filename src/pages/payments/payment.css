@@ -1,0 +1,9 @@
+.payments{
+    flex: 4;
+    margin: 20px;
+    border-radius: .75rem;
+}
+.paymentswrapper {
+    background-color: #fff;
+    height: calc(100vh - 60px);
+}

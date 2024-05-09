@@ -1,0 +1,9 @@
+.event{
+    flex: 4;
+    margin: 20px;
+    border-radius: .75rem;
+}
+.eventWrapper{
+    background-color: #fff;
+    height: calc(100vh - 60px);
+}

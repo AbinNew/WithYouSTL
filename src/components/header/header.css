@@ -1,0 +1,23 @@
+.header {
+    flex: 2;
+    width: 100%;
+    background-color: #fff;
+    border-radius: .75rem;
+    margin-bottom: 20px;
+}
+
+.headerWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background: inherit;
+}
+
+.headerTitle {
+    background: inherit;
+}
+
+.headerButton {
+    background: inherit;
+}
